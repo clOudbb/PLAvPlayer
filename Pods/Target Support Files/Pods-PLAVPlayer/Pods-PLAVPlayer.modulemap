@@ -1,0 +1,6 @@
+framework module Pods_PLAVPlayer {
+  umbrella header "Pods-PLAVPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
