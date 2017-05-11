@@ -1,2 +1,2 @@
 # PLAvPlayer
-A avplayer refrence for swift
+A avplayer refrence for swift3
