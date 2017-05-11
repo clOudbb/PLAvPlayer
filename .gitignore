@@ -26,3 +26,14 @@ DerivedData
 #
 Pods/
 Podfile.lock
+
+#增加需被忽略的文件
+.svn
+.svnignore
+*.svn-base
+.DS_Store
+*.xcworkspace
+!default.xcworkspace
+profile
+.idea/
+**/xcuserdata/**
