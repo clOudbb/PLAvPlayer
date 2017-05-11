@@ -15,8 +15,10 @@ xcuserdata
 DerivedData
 *.hmap
 *.ipa
-*.xcuserstate
 *.LSOverride
+xcuserdata/
+*.xcuserstate
+.xcuserstate
 
 # CocoaPods
 #
